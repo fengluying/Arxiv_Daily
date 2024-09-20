@@ -1,9 +1,0 @@
-arxiv
-requests
-beautifulsoup4
-py-emails
-mkdocs
-mkdocs-material
-paperscraper
-openai
-python-dateutil
