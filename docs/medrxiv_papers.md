@@ -1,3 +1,42 @@
+# MedRxiv 2024-10-09 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 大规模实证识别药物流行病学研究中的候选比较对象 | Bohn, J. | [PDF](https://doi.org/10.1101/2023.02.14.23285755) | N/A | Large-scale empirical identification of candidate comparators for pharmacoepidemiological studies |
+| 快速回顾针对农村和偏远地区燃料贫困家庭提高住宅温暖度和降低供暖成本的干预措施的有效性和成本效益 | Edwards, D. | [PDF](https://doi.org/10.1101/2023.04.18.23288747) | N/A | A rapid review of the effectiveness and cost effectiveness of interventions that make homes warmer and cheaper to heat for households in fuel poverty in rural and remote areas |
+| 乌干达治疗扩展期间未经治疗和有治疗经验的HIV感染者中HIV药物耐药性的人口动态：一项基于人群的纵向研究 | Martin, M. A. | [PDF](https://doi.org/10.1101/2023.10.14.23297021) | N/A | Population dynamics of HIV drug resistance among pre-treatment and treatment-experienced persons with HIV during treatment scale-up in Uganda: a population-based longitudinal study |
+| 回顾性分析法国政策响应所依据的Covid-19住院模型情景 | Langevin, M. | [PDF](https://doi.org/10.1101/2023.12.16.23300086) | N/A | Retrospective analysis of Covid-19 hospitalization modelling scenarios which guided policy response in France |
+| 在急性和慢性治疗HIV-1克隆C感染中，HIV-1库大小、景观特征和衰减动力学的差异 | Reddy, K. | [PDF](https://doi.org/10.1101/2024.02.16.24302713) | N/A | Differences in HIV-1 reservoir size, landscape characteristics and decay dynamics in acute and chronic treated HIV-1 Clade C infection |
+| 巨噬细胞和库普弗细胞上的补体3a受体1对于代谢功能障碍相关脂肪性肝病的病理发生并非必需。 | Homan, E. A. | [PDF](https://doi.org/10.1101/2024.06.26.24309550) | N/A | Complement 3a Receptor 1 on Macrophages and Kupffer cells is not required for the Pathogenesis of Metabolic Dysfunction-Associated Steatotic Liver Disease |
+| 通过疫苗和感染获得的免疫力对SARS-CoV-2感染的间接保护的强度和持久性 | Tan, S. T. | [PDF](https://doi.org/10.1101/2024.07.23.24310889) | N/A | Strength and durability of indirect protection against SARS-CoV-2 infection through vaccine and infection-acquired immunity |
+| 一项关于ALS患者使用Enoxacin的I期/IIa期随机试验 | Magen, I. | [PDF](https://doi.org/10.1101/2024.07.31.24311258) | N/A | A phase Ib/IIa randomized trial of Enoxacin in patients with ALS |
+| 使用Nanopore技术实现准确且成本效益高的乙型肝炎病毒全基因组测序 | Stenback, J. B. | [PDF](https://doi.org/10.1101/2024.08.12.24311345) | N/A | Accurate and cost-efficient whole genome sequencing of hepatitis B virus using Nanopore |
+| 轻度创伤性脑损伤后顺磁性和抗磁性皮层基质的分布：基于深度和曲率的定量磁化率成像研究 | Essex, C. A. | [PDF](https://doi.org/10.1101/2024.08.16.24312140) | N/A | Distribution of paramagnetic and diamagnetic cortical substrates following mild Traumatic Brain Injury: A depth- and curvature-based quantitative susceptibility mapping study |
+| 职业女足运动员的妇科健康模式及母亲经历 | Ramagole, D. | [PDF](https://doi.org/10.1101/2024.08.26.24312465) | N/A | Gynaecological health patterns and motherhood experiences of female professional football players |
+| NIAGADS：一个全面的全国性数据资源库，用于阿尔茨海默病及相关痴呆症的遗传学和基因组学研究 | Kuzma, A. | [PDF](https://doi.org/10.1101/2024.10.07.24315029) | N/A | NIAGADS: A Comprehensive National Data Repository for Alzheimer's Disease and Related Dementia Genetics and Genomics Research |
+| 使用端到端学习方法自动评估冠状动脉造影的狭窄程度 | Eschen, C. K. | [PDF](https://doi.org/10.1101/2024.10.08.24315070) | N/A | Automated stenosis estimation of coronary angiographies using end-to-end learning |
+| 机械通气模式对重症成年患者无呼吸机天数的影响：一项随机临床试验 | Seitz, K. P. | [PDF](https://doi.org/10.1101/2024.10.08.24314961) | N/A | Effect of Ventilator Mode on Ventilator-Free Days in Critically Ill Adults: A Randomized Clinical Trial |
+| 老年人短期虚弱指数波动：噪音还是信号？ | Stolz, E. | [PDF](https://doi.org/10.1101/2024.10.09.24315145) | N/A | Short-term frailty index fluctuations in older adults: Noise or signal? |
+| 衰老与决策：系统综述与元分析 | Ee, N. | [PDF](https://doi.org/10.1101/2024.10.09.24315136) | N/A | Ageing and Decision-making: A systematic review and meta-analysis |
+| 创伤性脑损伤（TBI）与有无受伤前痴呆的老年人的死亡率 | Lai, H. | [PDF](https://doi.org/10.1101/2024.10.09.24314691) | N/A | Traumatic brain injury (TBI) and mortality in older adults with and without pre-injury dementia |
+| 在病例-父母三联体研究中利用多基因评分估计直接和间接多基因效应及基因-环境相互作用 | Wang, Z. | [PDF](https://doi.org/10.1101/2024.10.08.24315066) | N/A | Estimation of Direct and Indirect Polygenic Effects and Gene-Environment Interactions using Polygenic Scores in Case-Parent Trio Studies |
+| 多祖先全基因组关联研究揭示了长新冠的免疫相关位点及其与慢性疲劳综合征、纤维肌痛和抑郁症的病因联系 | Chaudhary, N. S. | [PDF](https://doi.org/10.1101/2024.10.07.24315052) | N/A | Multi-ancestry GWAS of Long COVID identifiesimmune-related loci and etiological links to chronic fatigue syndrome, fibromyalgia and depression |
+| 美国移民中使用转录特征进行早期结核病筛查的成本效益 | Hsieh, Y. L. | [PDF](https://doi.org/10.1101/2024.10.09.24315062) | N/A | Cost-effectiveness of screening with transcriptional signatures for incipient TB among U.S. migrants |
+| 机器学习仅在存在全面的临床表型分析的情况下，才能检测到隐藏的治疗反应模式。 | Auger, S. D. | [PDF](https://doi.org/10.1101/2024.10.09.24315155) | N/A | Machine learning detects hidden treatment response patterns only in the presence of comprehensive clinical phenotyping |
+| 结核病与艾滋病双重感染的双重负担：来自加纳中部地区的证据。 | Lugutuah, M. B. | [PDF](https://doi.org/10.1101/2024.10.08.24315084) | N/A | The Double Burden of TB/HIV co-infection: Evidence from Central Region of Ghana. |
+| 计算机辅助阅读儿童胸片以诊断结核病：现状与未来方向 | DuPont, M. | [PDF](https://doi.org/10.1101/2024.10.08.24314837) | N/A | Computer-Aided Reading of Chest Radiographs for Pediatric Tuberculosis: Current Status and Future Directions |
+| 基于测序的快速模块化工作流程，用于当日检测血流感染及抗菌药物耐药性决定因素 | Sajib, M. S. I. | [PDF](https://doi.org/10.1101/2024.10.09.24315014) | N/A | Rapid and modular workflows for same-day sequencing-based detection of bloodstream infections and antimicrobial resistance determinants |
+| 超声心动图转诊人群中右心室功能障碍的发生率 | Garry, J. D. | [PDF](https://doi.org/10.1101/2024.10.08.24315120) | N/A | Incidence of Right Ventricular Dysfunction in an Echocardiographic Referral Cohort |
+| 坦桑尼亚的1型糖尿病：患病率和发病率的系统综述 | Mrema, L. E. | [PDF](https://doi.org/10.1101/2024.10.09.24315148) | N/A | Type 1 Diabetes Mellitus in Tanzania: a systematic review of prevalence and incidence |
+| 中国、英格兰、墨西哥、南非农村和美国中年及老年人群的糖尿病与全因死亡率：一项基于纵向老龄化队列的流行病学研究 | Green, H. | [PDF](https://doi.org/10.1101/2024.10.09.24315174) | N/A | Diabetes and all-cause mortality among middle-aged and older adults in China, England, Mexico, rural South Africa, and the United States: A population-based study of longitudinal aging cohorts |
+| 英国初级保健中严重精神疾病患者心血管疾病风险因素筛查的流行情况及患者特征：一项电子健康记录研究 | Launders, N. | [PDF](https://doi.org/10.1101/2024.10.09.24315173) | N/A | Prevalence and patient characteristics associated with cardiovascular disease risk factor screening in UK primary care for people with severe mental illness: An electronic healthcare record study |
+| 经颅直流电刺激（tDCS）对情绪加工的疗效 | Akbari, F. | [PDF](https://doi.org/10.1101/2024.10.09.24315160) | N/A | The Efficacy of transcranial Direct Current Stimulation (tDCS) on Emotional Processing |
+| 焦虑与多发性硬化症中钩束损伤负担的关联 | Baller, E. B. | [PDF](https://doi.org/10.1101/2024.10.08.24315108) | N/A | Association of Anxiety with Uncinate Fasciculus Lesion Burden in Multiple Sclerosis |
+| 利奈唑胺在结核病中引起的乳酸酸中毒：已发表病例报告和病例系列的综合性回顾 | Garg, R. | [PDF](https://doi.org/10.1101/2024.10.09.24315146) | N/A | Linezolid induced lactic acidosis in tuberculosis: a systematic review of published case reports, case series |
+| 巨细胞病毒感染可预防转移性黑色素瘤，并调节肿瘤治疗结果及对免疫检查点疗法的毒性反应。 | Milotay, G. | [PDF](https://doi.org/10.1101/2024.10.09.24315144) | N/A | Cytomegalovirus infection protects against metastatic melanoma and modulates oncological outcome and toxicity to checkpoint immunotherapy |
+| 全食物植物性饮食降低了转移性乳腺癌患者的氨基酸水平 | Scales, T. Q. | [PDF](https://doi.org/10.1101/2024.10.09.24315165) | N/A | A whole food, plant-based diet reduces amino acid levels in patients with metastatic breast cancer |
+| 导航隐私与准确性权衡：基于分箱和差分隐私的联邦生存分析 | Gouthamchand, V. | [PDF](https://doi.org/10.1101/2024.10.09.24315159) | N/A | Navigating the Privacy-Accuracy Tradeoff: Federated Survival Analysis with Binning and Differential Privacy |
+| 外周血细胞因子作为住院治疗后阿片类药物使用障碍患者白质微结构纵向恢复的标志物 | Butelman, E. R. | [PDF](https://doi.org/10.1101/2024.10.09.24315171) | N/A | Peripheral blood cytokines as markers of longitudinal recovery in white matter microstructure following inpatient treatment for opioid use disorders |
 # MedRxiv 2024-10-08 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
